@@ -7,4 +7,4 @@
 <p align='center'>
 
 #  <p align="center">𝑶𝒃𝒓𝒊𝒈𝒂𝒅𝒐 𝒑𝒐𝒓 𝒑𝒆𝒍𝒂 𝒗𝒊𝒔𝒊𝒕𝒂 :)
-<p align="center"><img src="https://pa1.narvii.com/6833/b4e3838ed6df4e4c16b1907028ed352f26a85e56_hq.gif" alt="Image" height="400" width="400" >
+<p align="center"><img src="https://pa1.narvii.com/6833/b4e3838ed6df4e4c16b1907028ed352f26a85e56_hq.gif" alt="Image" height="300" width="300" ><img src="https://giffiles.alphacoders.com/139/13939.gif" alt="Image" height="300" width="300" >
